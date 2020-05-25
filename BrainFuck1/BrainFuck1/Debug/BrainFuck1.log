@@ -1,0 +1,4 @@
+﻿  Checker.cpp
+c:\users\ilya\documents\visual studio 2015\projects\brainfuck1\brainfuck1\checker.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+  BrainFuck1.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2015\Projects\BrainFuck1\Debug\BrainFuck1.exe
+  BrainFuck1.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2015\Projects\BrainFuck1\Debug\BrainFuck1.pdb (Full PDB)
